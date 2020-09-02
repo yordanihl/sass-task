@@ -5,7 +5,7 @@ A responsive web page from PSD design.
 # Features
 
 - Big carousel controlled with the three dots
-- Section "Our Featured Professionals" with 4 items per slide on desktop and 2 items on mobile, controlled with te arrows
+- Section "Our Featured Professionals" with 4 items per slide on desktop and 2 items on mobile, controlled with the arrows
 
 # Notes
 
